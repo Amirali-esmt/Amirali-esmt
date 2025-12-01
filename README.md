@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amirali Sotoudeh Rad</h1>
-<h3 align="center">Software Engineering Student | Developer | Tech Enthusiast</h3>
+<h1 align="center"> Amirali Sotoudeh Rad</h1>
+<h3 align="center">Software Engineer| Developer |DevOps</h3>
 
 <!-- Optional LinkedIn Badge -->
 <p align="center">
@@ -39,26 +39,4 @@ My interests span across backend, frontend, mobile development, UI/UX, and scala
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </p>
 
----
 
-## 📂 Featured Projects (Placeholders)
-> Replace these with your actual repositories once ready.
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🚀 **Project 1** | A placeholder description of one of your main projects. | Java / Python |
-| 📱 **Project 2** | Short description of another project. | Flutter / GitHub |
-| 💡 **Project 3** | Description of an experimental or practice project. | Any Tech |
-
----
-
-## 📬 Contact
-Feel free to connect with me:
-
-- **GitHub:** https://github.com/YOUR_USERNAME  
-- **LinkedIn:** YOUR_LINK_HERE  
-- **Email:** YOUR_EMAIL_HERE  
-
----
-
-⭐ *Thank you for visiting my profile! Feel free to explore my repositories and leave a star on anything you like.*  
